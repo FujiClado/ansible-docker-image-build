@@ -1,0 +1,2 @@
+[build]
+build-instance.devopsclass.shop ansible_user="ec2-user"
